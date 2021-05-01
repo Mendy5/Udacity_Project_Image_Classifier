@@ -1,6 +1,6 @@
 # Udacity Introduction to Machine Learning with TensorFlow Project II: Create Your Own Image Classifier
 
-This repository contains all related files of the Udacity Machine Learning with TensorFlow Project IIL Create Your Own Image Classifier
+This repository contains all related files of the Udacity Machine Learning with TensorFlow Project II Create Your Own Image Classifier
 
 The project contains two Parts.
 Part I: Developing an image clssifier model with Deep Learning (Tensor Flow)
